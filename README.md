@@ -1,5 +1,5 @@
 # Weather-application-using-html-css-and-javascript
-This is a simple weather application using HTML, CSS, and JS.Link to my website [Click here](https://abishekjames.github.io/Weather-application-using-html-css-and-javascript/) 
+### This is a simple weather application using HTML, CSS, and JS.Link to my website [Click here](https://abishekjames.github.io/Weather-application-using-html-css-and-javascript/) 
 
 **Create three Files: HTML, CSS & JavaScript File.** After creating these files just write the codes to your file.Remember,for Java script you have to pass your API key in the API URL otherwise this weather app won’t work and it returns “something went wrong” error. You can get this key from the official OpenWeatherMap site for free.
 You need API Key to run this Project.So after getting your API Key then pass your API key in the API URL of your Java script file.
