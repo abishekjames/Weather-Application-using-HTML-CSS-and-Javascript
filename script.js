@@ -31,8 +31,6 @@ let weather = {
     document.querySelector(".wind").innerText =
       "Wind speed: " + speed + " km/h";
     document.querySelector(".weather").classList.remove("loading");
-    document.body.style.backgroundImage =
-      "url('https://github.com/abishekjames/Weather-Application-using-HTML-CSS-and-Javascript/blob/main/images/weather.png")";
   },
   search: function () {
     this.fetchWeather(document.querySelector(".search-bar").value);
